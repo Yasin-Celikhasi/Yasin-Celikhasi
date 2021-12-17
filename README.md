@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yasin </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Yasin-Celikhasi" alt="Yasin-Celikhasi" /> </p>
 <h3 align="center">A Frontend Developer from Turkey</h3>
-
+<h3 align=left>I am currenty on Bootcamp program in order to learn and improve my skills on React. I have keen on learning new concepts and technologies. </h3>
+<hr>
 
 - 🌱 I’m currently learning **React.js, .NET Core, Javascript**
 
 - 📝 You can visit my medium page [My Medium Page](https://medium.com/@clkhsyasin) 
 
-- 📝 My personal page ... (will be here soon)
+- 📝 My personal page on Patika.dev  [My Patika.dev Page](https://app.patika.dev/Yasin-Celikhasi)
 
 <!-- - 📫 How to reach me **clkhsyasin@gmail.com** -->
 
