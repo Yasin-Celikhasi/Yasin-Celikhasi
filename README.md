@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am a Business Central and AL professional who turns warehouse, manufacturing, inventory, and quality requirements into reliable ERP solutions. I build extensions and reporting improvements that support labeling compliance, electronic Certificate of Analysis (COA) delivery, inventory analysis, mobile warehouse workflows, and production operations.
+I am a Business Central and AL professional who turns warehouse, manufacturing, inventory, and quality requirements into reliable ERP solutions. 
 
 My background combines hands-on AL development with ERP support, process improvement, testing, deployment, documentation, and user training.
 
